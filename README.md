@@ -22,7 +22,7 @@ Fight desinformation. Generates common grounds of understanding between groups o
 
 
 
-📚 References
+📚 Inspiration
 
 https://gregenos.org/does-truth-depend-on-perspective/
 
