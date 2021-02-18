@@ -17,7 +17,9 @@ A system that tries to transform different opinions in a single truth statement 
 
 Fight desinformation. Generates common grounds of understanding between groups of peers with different opinions/perspective about the same truth.
 
-This is very very veeeery WiP
+
+    This is very very veeeery WiP
+
 
 
 📚 References
