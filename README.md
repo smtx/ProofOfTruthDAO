@@ -23,5 +23,7 @@ This is very very veeeery WiP
 📚 References
 
 https://gregenos.org/does-truth-depend-on-perspective/
-http://sohowdoweknow.weebly.com/forum/truth-fact-and-perspective
-https://medium.com/swlh/trust-consensus-and-truth-3ba142706432
+
+http://sohowdoweknow.weebly.com/forum/truth-fact-and-perspective 
+
+https://medium.com/swlh/trust-consensus-and-truth-3ba142706432 
