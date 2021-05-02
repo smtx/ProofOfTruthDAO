@@ -1,11 +1,11 @@
 ## Les damos la bienvenida a Proof Of Truth
-### Una DAO que promueve el consenso sobre hechos, creencias e ideas
+### Una DAO que promueve el consenso sobre hechos, creencias e ideas.
 
 ### ¿De qué se trata?
-<p style='text-align: justify;'>Es un sistema que permite a quienes participan validar, enmendar, aprobar o desaprobar declaraciones que representan ideas, creencias o hechos.</p>
+<p style='text-align: justify;'>Es un sistema que le permite a sus participantes validar, enmendar, aprobar o desaprobar declaraciones que representan ideas, creencias o hechos.</p>
 
-### ¿Cómo?
-<p style='text-align: justify;'>Transforma diferentes opiniones en una única declaración de verdad o crea bifurcaciones (forks) con diferentes ideas utilizando mecanismos de votación cuadrática.</p>
+### ¿Cómo funciona?
+<p style='text-align: justify;'>Las diferentes opiniones pueden transformarse en una única declaración de verdad o, también, crear bifurcaciones (forks) con diferentes ideas utilizando mecanismos de votación cuadrática.</p>
 
 ### Motivación
 <p style='text-align: justify;'>Combate la desinformación. Genera bases comunes de entendimiento entre grupos de pares con diferentes opiniones/perspectivas sobre una misma idea o creencia.</p>
