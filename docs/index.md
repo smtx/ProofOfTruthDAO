@@ -1,10 +1,6 @@
 ## Les damos la bienvenida a Proof Of Truth
 ### Una DAO que promueve el consenso sobre hechos, creencias e ideas
 
-You can use the [editor on GitHub](https://github.com/smtx/ProofOfTruthDAO/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### ¿De qué se trata?
 
 Es un sistema que permite a quienes participan validar, enmendar, aprobar o desaprobar declaraciones que representan ideas, creencias o hechos.
