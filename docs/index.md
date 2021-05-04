@@ -5,8 +5,6 @@ layout: default
 ## Les damos la bienvenida a Proof Of Truth
 ### Una DAO que promueve el consenso sobre hechos, creencias e ideas.
 
-[Link to another page](./ttoken.html)
-
 ### ¿De qué se trata?
 <p style='text-align: justify;'>Es un sistema que le permite a sus participantes validar, enmendar, aprobar o desaprobar declaraciones que representan ideas, creencias o hechos.</p>
 
