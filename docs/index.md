@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+# Proof of Truth
 ## Les damos la bienvenida a Proof Of Truth
 ### Una DAO que promueve el consenso sobre hechos, creencias e ideas.
 
