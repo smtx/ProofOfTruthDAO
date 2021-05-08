@@ -15,6 +15,7 @@ A system that allows participants to validate, enmend, approve or disapprove sta
 
 Transform different opinions in a single truth statement or create forks with different ideas using cuadratic voting mechanisms.
 
+We are starting a MVP on [Colony](https://xdai.colony.io/colony/truth)
 
 ## Motivation
 
@@ -29,6 +30,6 @@ Fight desinformation. Generates common grounds of understanding between groups o
 
 https://gregenos.org/does-truth-depend-on-perspective/
 
-http://sohowdoweknow.weebly.com/forum/truth-fact-and-perspective 
+http://sohowdoweknow.weebly.com/forum/truth-fact-and-perspective
 
-https://medium.com/swlh/trust-consensus-and-truth-3ba142706432 
+https://medium.com/swlh/trust-consensus-and-truth-3ba142706432
