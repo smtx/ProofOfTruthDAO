@@ -10,7 +10,7 @@ desciption: En qué creemos y por qué lo hacemos
 
 <p style='text-align: justify;'>Creemos que manifestar nuestras ideas o creencias de forma adecuada son la base para comprendernos entre seres humanos.</p>
 
-<p style='text-align: justify;'>Somos parte de las generaciones que gracias a la tecnología descentralizada alcanzarán una forma de gobernanza abierta y justa, a diferencia de los sistemas descentralizados.
+<p style='text-align: justify;'>Somos parte de las generaciones que gracias a la tecnología descentralizada alcanzarán una forma de gobernanza abierta y justa, a diferencia de los sistemas centralizados.
 Gracias a Internet, la comunidad es global y la colaboración universal, en la que cada participante es capaz de contar con su poder de voz y voto.</p>
 
 <p style='text-align: justify;'>Estamos convencidos de que como seres humanos debemos utilizar a las tecnologías como herramientas de superación y no como mera virtualización de burbujas de afinidad en ideología, en las que proliferan fake news, y trolleo hacia lo diferente, tal como sucede en las redes sociales digitales actualmente.</p>
